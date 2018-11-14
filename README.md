@@ -1,2 +1,15 @@
-# study_path_dat
-learning data mining in lab
+# 大数据方向学习路线
+
+#### 编程语言
+
+- - -
+
+`python` `Java` `C++` `scala`
+
+#### 数据处理
+
+- - -
+
+`numpy` `pandas` `matplotlib`
+
+ 
