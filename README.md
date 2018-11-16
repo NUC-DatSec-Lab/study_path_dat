@@ -102,7 +102,19 @@
 
 ----
 
-* 苏剑林：
+* 贾扬清：Facebook科学家、Caffe之父贾扬清
+
+  [个人主页](http://daggerfs.com/)
+
+  [知乎主页](https://www.zhihu.com/people/jiayangqing/activities)
+
+* 周志华：南大教授、西瓜书作者
+
+  [个人主页](http://cs.nju.edu.cn/zhouzh/)
+
+  [团队主页](http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1)
+
+* 苏剑林：深度学习、计算机视觉
 
 ​	[科学空间](https://spaces.ac.cn)
 
@@ -132,7 +144,7 @@
 
 * 植物大佬：数据竞赛大佬
 
-​	[github](https://github.com/plantsgo)
+  [github](https://github.com/plantsgo)
 
 
 
