@@ -62,9 +62,11 @@
 
 * [markdown](https://www.appinn.com/markdown/#link)：markdown语法
 * [nbviewer-jupyter](http://nbviewer.jupyter.org/)：方便看github上的的ipynb文件
+* [ProcessOn](https://www.processon.com/)：在线制作流程图
+* [gitbook](https://legacy.gitbook.com/)：gitbook手册制作
+* [各式网站收集](https://dodola.gitbooks.io/gitbook/content/)：一些不错的网站收集
 * [Python第三方包网站](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [devdoc](https://devdocs.io/)：各类文档收集
-
 * [nn-playgound](http://playground.tensorflow.org/)：神经网络训练场
 * [nn-visualize](http://www.emergentmind.com/neural-network)：神经网络可视化和简单实验
 * [nn可解释性](https://distill.pub/2018/building-blocks/)：隐藏层可解释性
@@ -90,6 +92,10 @@
 #### 机器学习&深度学习
 
 * [colah blog](https://colah.github.io/)：机器学习，深度学习相关博客
+
+#### 数据可视化
+
+* [Pyecharts-中文文档](http://pyecharts.org/#/zh-cn/)：pyecharts
 
 ### 牛人的博客
 
