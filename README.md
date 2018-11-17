@@ -92,6 +92,7 @@
 #### 机器学习&深度学习
 
 * [colah blog](https://colah.github.io/)：机器学习，深度学习相关博客
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)  ：面试常问
 
 #### 数据可视化
 
@@ -101,24 +102,17 @@
 
 ----
 
-* 贾扬清：[个人主页](http://daggerfs.com/)、[知乎主页](https://www.zhihu.com/people/jiayangqing/activities)
-
-* 周志华：[个人主页](http://cs.nju.edu.cn/zhouzh/)、[团队主页](http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1)
-
-* 苏剑林：[科学空间](https://spaces.ac.cn)、[github](https://github.com/bojone)
-
-* 何恺明：[何恺明空间](http://kaiminghe.com/)、[github](https://github.com/KaimingHe)
-
-* 华校专：个人学习笔记](http://huaxiaozhuan.com/)、[github](https://github.com/huaxz1986)
-
-* 黄海广：[知乎](https://www.zhihu.com/people/fengdu78/activities)、[github](https://github.com/fengdu78)
-
+* 贾扬清：[个人主页](http://daggerfs.com/) 、[知乎主页](https://www.zhihu.com/people/jiayangqing/activities)
+* 周志华：[个人主页](http://cs.nju.edu.cn/zhouzh/) 、[团队主页](http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1)
+* 苏剑林：[科学空间](https://spaces.ac.cn) 、[github](https://github.com/bojone)
+* 何恺明：[何恺明空间](http://kaiminghe.com/) 、[github](https://github.com/KaimingHe)
+* 华校专：[个人学习笔记](http://huaxiaozhuan.com/)  、[github](https://github.com/huaxz1986)
+* 黄海广：[知乎 ](https://www.zhihu.com/people/fengdu78/activities) 、[github](https://github.com/fengdu78)
 * 金陵书生：[知乎](https://www.zhihu.com/people/jlbookworm/activities)
-
 * 植物大佬：[github](https://github.com/plantsgo)
-
-
-
+* 蛇佬：[Snake](https://github.com/luoda888)
+* wepon：[wepe](https://github.com/wepe)
+* Cortex Labs(比赛团队)：[Cortex ](https://github.com/CortexFoundation)
 
 ### Awesome系列
 
