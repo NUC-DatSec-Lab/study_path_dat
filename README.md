@@ -12,4 +12,5 @@
 
 `numpy` `pandas` `matplotlib`
 
+[书籍推荐](./books.md)
  
