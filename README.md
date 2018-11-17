@@ -91,6 +91,8 @@
 
 #### 机器学习&深度学习
 
+* [机器学习笔记梳理](https://feisky.xyz/machine-learning/)：不错的机器学习知识路线
+
 * [colah blog](https://colah.github.io/)：机器学习，深度学习相关博客
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)  ：面试常问
 
