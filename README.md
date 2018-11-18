@@ -12,6 +12,7 @@
 
 `numpy` `pandas` `matplotlib`
 
+
 #### 之后会给出的路线方案
 
 ----
@@ -201,3 +202,8 @@
 * [deepmind开源数据集](https://deepmind.com/research/open-source/)
 
 * [鸟叫声数据集【xeno-canto】](https://www.xeno-canto.org/)
+
+
+[书籍推荐](./books.md)
+ 
+
