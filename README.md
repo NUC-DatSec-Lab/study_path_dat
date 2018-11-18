@@ -144,7 +144,19 @@
 * [算法](https://github.com/tayllan/awesome-algorithms)
 * [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
 
+### 知名实验室&研究所
 
+----
+
+* [腾讯AI Lab](https://ai.tencent.com/ailab/index.html)
+* [南大-Lambda机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/CH.MainPage.ashx)
+* [DeepMind](https://deepmind.com/)
+* [达摩院实验室](https://damo.alibaba.com/labs/)
+* [MIT CSAI Lab](https://www.csail.mit.edu/)
+* [布里斯托大学智能系统实验室](https://intelligentsystems.bristol.ac.uk/)
+* [斯坦福视觉研究所](http://vision.stanford.edu/index.html)
+* [伯克利人工智能研究室](https://bair.berkeley.edu/)
+* [剑桥大学未来智能研究中心](http://www.lcfi.ac.uk/)
 
 ### 数据集
 
@@ -176,6 +188,7 @@
 * [【CV】(街头)时尚服饰数据集(2000+标注图片)](https://github.com/bearpaw/clothing-co-parsing)
 * [数据科学/机器学习数据集汇总](https://elitedatascience.com/datasets)
 * [【CV】CORe50：连续目标识别数据集](https://vlomonaco.github.io/core50/)
+* [【CV】动作识别数据库](http://www.nada.kth.se/cvap/actions/)
 * [deepmind开源数据集](https://deepmind.com/research/open-source/)
 * [鸟叫声数据集【xeno-canto】](https://www.xeno-canto.org/)
 
@@ -183,6 +196,6 @@
 
 
 [书籍推荐](./books.md)
- 
+
 
 
