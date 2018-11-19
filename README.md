@@ -89,6 +89,7 @@
 
 * [ApacheCN](http://www.apachecn.org/)：优秀文档翻译社区
 * [Tensorfly](http://www.tensorfly.cn/home/) ：tensorflow教程和文档
+* [TensorflowNews](http://www.tensorflownews.com/)：tensorflow教程和文档
 * [磐创AI-tf-教程](http://panchuang.net/)：tensorflow教程
 * [Pytorch中文网](https://www.pytorchtutorial.com/)：PyTorch 中文网
 * [人工智能笔记](http://huaxiaozhuan.com/) ：机器学习、深度学习知识笔记
@@ -114,11 +115,14 @@
 #### 数据比赛优秀解决方案或者技巧
 
 * [kaggle优秀解决方案收集](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated/)
-
 * [关于特征的技巧（墙）](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)：[转载](http://www.sohu.com/a/273552971_129720)
 
+#### 推荐系统
 
-### 博客收集
+* [推荐系统论文](https://github.com/fuxuemingzhu/Summary-of-Recommender-System-Papers)
+
+
+### 优秀个人和组织收集
 
 ----
 
@@ -136,6 +140,7 @@
 * 杨培文：[主页](https://ypw.io/) 、[知乎](https://www.zhihu.com/people/yangpw/activities) 
 * 莫烦：[github](https://github.com/MorvanZhou) 、[教学主页](https://morvanzhou.github.io/)
 * 徐亦达：[github](https://github.com/roboticcam) 、[bilibili](https://space.bilibili.com/327617676/#/)  、[优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng==?spm=a2h0j.11185381.module_basic_dayu_sub.DL~DT~A)
+* ApacheCN：[github](https://github.com/apachecn) 、[组织主页](http://www.apachecn.org/)
 
 ### Awesome系列
 
@@ -158,6 +163,8 @@
 * [算法](https://github.com/tayllan/awesome-algorithms)
 * [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Python-时间序列](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+* [project-ideas](https://github.com/NirantK/awesome-project-ideas)
+* 
 
 ### 知名实验室&研究所
 
