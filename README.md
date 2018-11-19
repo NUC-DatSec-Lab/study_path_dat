@@ -69,6 +69,7 @@
 
 * [markdown](https://www.appinn.com/markdown/#link)：markdown语法
 * [nbviewer-jupyter](http://nbviewer.jupyter.org/)：方便看github上的的ipynb文件
+* [Git图解](http://gitbeijing.com/)
 * [ProcessOn](https://www.processon.com/)：在线制作流程图
 * [gitbook](https://legacy.gitbook.com/)：gitbook手册制作
 * [各式网站收集](https://dodola.gitbooks.io/gitbook/content/)：一些不错的网站收集
@@ -98,6 +99,8 @@
 * [52nlp](http://www.52nlp.cn/) ：nlp社区
 
 #### 机器学习&深度学习
+
+* [莫烦的教程](https://github.com/MorvanZhou/tutorials)
 
 * [机器学习笔记梳理](https://feisky.xyz/machine-learning/)：不错的机器学习知识路线
 
@@ -131,6 +134,8 @@
 * wepon：[github](https://github.com/wepe) 、[csdn](https://blog.csdn.net/u012162613)
 * Cortex Labs(比赛团队)：[Cortex ](https://github.com/CortexFoundation)
 * 杨培文：[主页](https://ypw.io/) 、[知乎](https://www.zhihu.com/people/yangpw/activities) 
+* 莫烦：[github](https://github.com/MorvanZhou) 、[教学主页](https://morvanzhou.github.io/)
+* 徐亦达：[github](https://github.com/roboticcam) 、[bilibili](https://space.bilibili.com/327617676/#/)  、[优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng==?spm=a2h0j.11185381.module_basic_dayu_sub.DL~DT~A)
 
 ### Awesome系列
 
@@ -220,5 +225,9 @@
 
 [c-dafan](./books.md)
 
+### 读研
 
+---
+
+* [读研注意](./Postgraduate.md)
 
