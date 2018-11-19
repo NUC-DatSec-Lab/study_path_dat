@@ -53,7 +53,13 @@
 
 `论文查找和项目实现`
 
+`tensorflowSpark`
 
+`docker`
+
+`deepFM`
+
+`工程模板`
 
 ### 网站罗列
 
@@ -82,6 +88,7 @@
 
 * [ApacheCN](http://www.apachecn.org/)：优秀文档翻译社区
 * [Tensorfly](http://www.tensorfly.cn/home/) ：tensorflow教程和文档
+* [磐创AI-tf-教程](http://panchuang.net/)：tensorflow教程
 * [Pytorch中文网](https://www.pytorchtutorial.com/)：PyTorch 中文网
 * [人工智能笔记](http://huaxiaozhuan.com/) ：机器学习、深度学习知识笔记
 * [AIQ](http://www.6aiq.com/)：机器学习社区
@@ -121,8 +128,9 @@
 * 金陵书生：[知乎](https://www.zhihu.com/people/jlbookworm/activities)
 * 植物大佬：[github](https://github.com/plantsgo)
 * 蛇佬：[Snake](https://github.com/luoda888)
-* wepon：[wepe](https://github.com/wepe)
+* wepon：[github](https://github.com/wepe) 、[csdn](https://blog.csdn.net/u012162613)
 * Cortex Labs(比赛团队)：[Cortex ](https://github.com/CortexFoundation)
+* 杨培文：[主页](https://ypw.io/) 、[知乎](https://www.zhihu.com/people/yangpw/activities) 
 
 ### Awesome系列
 
@@ -133,6 +141,7 @@
 * [机器学习-zh](https://github.com/dadoubigege/awesome-machine-learning-cn)
 * [python](https://github.com/vinta/awesome-python)
 * [tensorflow](https://github.com/jtoy/awesome-tensorflow)
+* [tensorflow-zh](https://github.com/fendouai/Awesome-TensorFlow-Chinese)
 * [面试](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [深度学习](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Django](https://github.com/rosarior/awesome-django)
@@ -143,6 +152,7 @@
 * [强化学习](https://github.com/aikorea/awesome-rl)
 * [算法](https://github.com/tayllan/awesome-algorithms)
 * [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Python-时间序列](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 ### 知名实验室&研究所
 
@@ -157,6 +167,18 @@
 * [斯坦福视觉研究所](http://vision.stanford.edu/index.html)
 * [伯克利人工智能研究室](https://bair.berkeley.edu/)
 * [剑桥大学未来智能研究中心](http://www.lcfi.ac.uk/)
+
+
+
+### GitHub gronization or Topic
+
+---
+
+* [tensorflow](https://github.com/tensorflow)
+* [AI-ON](https://github.com/AI-ON)
+* [Awesome](https://github.com/topics/awesome)
+* [Google](https://github.com/google)
+* [Google-cloud](https://github.com/GoogleCloudPlatform)
 
 ### 数据集
 
@@ -192,10 +214,11 @@
 * [deepmind开源数据集](https://deepmind.com/research/open-source/)
 * [鸟叫声数据集【xeno-canto】](https://www.xeno-canto.org/)
 
+### 书籍推荐
 
+---
 
-
-[书籍推荐](./books.md)
+[c-dafan](./books.md)
 
 
 
