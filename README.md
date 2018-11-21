@@ -79,6 +79,15 @@
 * [nn-visualize](http://www.emergentmind.com/neural-network)：神经网络可视化和简单实验
 * [nn可解释性](https://distill.pub/2018/building-blocks/)：隐藏层可解释性
 * [Visualizing-MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)：MNIST可视化
+* [docker](https://github.com/llitfkitfk/docker-tutorial-cn)：虚拟化
+
+#### Python
+
+* [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
+
+#### Java
+
+* [Java开发相关](https://github.com/PansonPanson/Java-Notes)
 
 #### 计算机视觉
 
@@ -99,18 +108,20 @@
 
 * [52nlp](http://www.52nlp.cn/) ：nlp社区
 
-#### 机器学习&深度学习
+#### 机器学习&深度学习&数据科学
 
-* [莫烦的教程](https://github.com/MorvanZhou/tutorials)
-
+* [斯坦福《机器学习》笔记](https://github.com/zlotus/notes-LSJU-machine-learning)：课程笔记
+* [斯坦福《机器学习》Python实现](https://github.com/yoyoyohamapi/mit-ml)：代码实现
+* [莫烦的教程](https://github.com/MorvanZhou/tutorials)：莫烦python
 * [机器学习笔记梳理](https://feisky.xyz/machine-learning/)：不错的机器学习知识路线
-
 * [colah blog](https://colah.github.io/)：机器学习，深度学习相关博客
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)  ：面试常问
+* [数据科学笔记](https://github.com/donnemartin/data-science-ipython-notebooks)：data science
+* [Pyecharts-中文文档](http://pyecharts.org/#/zh-cn/)：pyecharts数据可视化
 
-#### 数据可视化
+#### 数学知识基础和提高
 
-* [Pyecharts-中文文档](http://pyecharts.org/#/zh-cn/)：pyecharts
+* [MIT线性代数笔记](https://github.com/apachecn/math)
 
 #### 数据比赛优秀解决方案或者技巧
 
@@ -121,6 +132,53 @@
 
 * [推荐系统论文](https://github.com/fuxuemingzhu/Summary-of-Recommender-System-Papers)
 
+#### 数学建模
+
+* [数学建模相关算法及MATLAB实现](https://github.com/HuangCongQing/Algorithms_MathModels)
+* [数学建模相关模板资源](https://github.com/zhanwen/MathModel)
+
+### 开发相关
+
+----
+
+#### Django
+
+* [Django教程](https://github.com/zmrenwu/django-blog-tutorial)
+* [基于Django的博客系统](https://github.com/liangliangyy/DjangoBlog)
+
+#### Android
+
+* [安卓学习笔记](https://github.com/GcsSloop/AndroidNote)
+
+### 图书配套源码
+
+* [《深度学习与计算机视觉》](https://github.com/frombeijingwithlove/dlcv_for_beginners)
+* [《OpenCV3编程入门》](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
+* [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)
+* [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)
+* [《第一行代码 第2版》](https://github.com/guolindev/booksource)
+* [《剑指Offer》](https://github.com/zhedahht/CodingInterviewChinese2)
+* [《Python Web开发实战》](https://github.com/dongweiming/web_develop)
+* [《跟老齐学Python系列》图书之《数据分析》](https://github.com/qiwsir/DataAnalysis)
+* [《跟老齐学Python系列》图书之《零基础学Python》](https://python.xiaoleilu.com/)
+
+### 面试笔试
+
+---
+
+* [互联网面试笔记](https://github.com/zhengjianglong915/note-of-interview)
+* [Python2面试](https://github.com/taizilongxu/interview_python)
+* [前端面试题](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
+* [Java&Android面试题](https://github.com/hadyang/interview)
+* [C/C++面试](https://github.com/huihut/interview)
+* [《剑指offer》Python实现](https://github.com/JushuangQiao/Python-Offer)
+* [《剑指offer》编程题](https://github.com/gatieme/CodingInterviews)
+* [知识点总结](https://github.com/it-interview/EasyJob)
+* [校招面试笔试高频题](https://github.com/NtZheng/NTAlgorithm)
+* [2018/2019/校招/春招/秋招](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [机器学习面试题](https://geekcircle.org/machine-learning-interview-qa/)
+* [BAT面试](https://github.com/lengyue1024/BAT_interviews)
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
 ### 优秀个人和组织收集
 
@@ -150,6 +208,7 @@
 * [资料汇总的汇总](https://github.com/bayandin/awesome-awesomeness)
 * [机器学习-zh](https://github.com/dadoubigege/awesome-machine-learning-cn)
 * [python](https://github.com/vinta/awesome-python)
+* [python-zh](https://github.com/jobbole/awesome-python-cn)
 * [tensorflow](https://github.com/jtoy/awesome-tensorflow)
 * [tensorflow-zh](https://github.com/fendouai/Awesome-TensorFlow-Chinese)
 * [面试](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -164,7 +223,7 @@
 * [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Python-时间序列](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 * [project-ideas](https://github.com/NirantK/awesome-project-ideas)
-* 
+* [前端资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
 ### 知名实验室&研究所
 
