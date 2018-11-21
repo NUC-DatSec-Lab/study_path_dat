@@ -31,7 +31,7 @@
 
 `优化训练Tricks`
 
-`NLP特征工程`
+`NLP及特征工程`
 
 `Pyspark`
 
@@ -61,6 +61,8 @@
 
 `工程模板`
 
+`智能算法`
+
 ### 网站罗列
 
 ----
@@ -81,15 +83,25 @@
 * [Visualizing-MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)：MNIST可视化
 * [docker](https://github.com/llitfkitfk/docker-tutorial-cn)：虚拟化
 
+#### 计算机专业课
+
+* [Cousera-计算机组成原理](https://www.bilibili.com/video/av12666021)
+
+#### C&C++
+
+* [Cousera-C语言设计进阶](https://www.bilibili.com/video/av12637226?from)
+* [Cousera-C++程序设计](https://www.bilibili.com/video/av12638525)
+
 #### Python
 
 * [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
+* [没有废话的python教程](https://www.bilibili.com/video/av5236569?from=search&seid=9511873466524619840)
 
 #### Java
 
 * [Java开发相关](https://github.com/PansonPanson/Java-Notes)
 
-#### 计算机视觉
+#### 计算机视觉（CV）
 
 * [52cv](https://www.52cv.net/) ：CV社区
 * [Opencv](https://github.com/makelove/OpenCV-Python-Tutorial)：Opencv教程
@@ -132,10 +144,16 @@
 
 * [推荐系统论文](https://github.com/fuxuemingzhu/Summary-of-Recommender-System-Papers)
 
+#### 算法&数据结构
+
+* [北大Coursesa算法分析与设计](https://www.bilibili.com/video/av12681389)
+* [清华数据结构与算法-邓俊辉](https://www.bilibili.com/video/av22774520)
+
 #### 数学建模
 
 * [数学建模相关算法及MATLAB实现](https://github.com/HuangCongQing/Algorithms_MathModels)
 * [数学建模相关模板资源](https://github.com/zhanwen/MathModel)
+* [matlab教程-学堂在线](http://www.xuetangx.com/courses/course-v1:CSU+2018012601X+sp/about)
 
 ### 开发相关
 
@@ -152,7 +170,10 @@
 
 ### 图书配套源码
 
+---
+
 * [《深度学习与计算机视觉》](https://github.com/frombeijingwithlove/dlcv_for_beginners)
+
 * [《OpenCV3编程入门》](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 * [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)
@@ -224,6 +245,7 @@
 * [Python-时间序列](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 * [project-ideas](https://github.com/NirantK/awesome-project-ideas)
 * [前端资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+* [docker](https://github.com/veggiemonk/awesome-docker)
 
 ### 知名实验室&研究所
 
