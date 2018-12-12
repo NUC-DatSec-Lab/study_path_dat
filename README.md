@@ -1,5 +1,17 @@
 # 大数据方向学习路线
 
+```python
+由于
+	个人精力有限
+	需要优化路线结构
+	团队力量胜过个人力量
+故
+	需要有志愿者来和我一起完善这个工作
+	可以留言
+```
+
+
+
 #### 编程语言
 
 - - -
@@ -63,6 +75,12 @@
 
 `智能算法`
 
+`OpenCV工程`
+
+`采样优化`
+
+`优化方法选取`
+
 ### 网站罗列
 
 ----
@@ -82,6 +100,7 @@
 * [nn可解释性](https://distill.pub/2018/building-blocks/)：隐藏层可解释性
 * [Visualizing-MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)：MNIST可视化
 * [docker](https://github.com/llitfkitfk/docker-tutorial-cn)：虚拟化
+* [google dataset search](https://toolbox.google.com/datasetsearch)：数据集搜索（墙）
 
 #### 计算机专业课
 
@@ -130,6 +149,7 @@
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)  ：面试常问
 * [数据科学笔记](https://github.com/donnemartin/data-science-ipython-notebooks)：data science
 * [Pyecharts-中文文档](http://pyecharts.org/#/zh-cn/)：pyecharts数据可视化
+* [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc/index.html#)
 
 #### 数学知识基础和提高
 
@@ -155,6 +175,11 @@
 * [数学建模相关模板资源](https://github.com/zhanwen/MathModel)
 * [matlab教程-学堂在线](http://www.xuetangx.com/courses/course-v1:CSU+2018012601X+sp/about)
 
+#### 强化学习
+
+* [DeepMind&伦敦大学教程](https://www.youtube.com/watch?v=iOh7QUZGyiU&index=2&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&t=0s)
+* 
+
 ### 开发相关
 
 ----
@@ -168,12 +193,16 @@
 
 * [安卓学习笔记](https://github.com/GcsSloop/AndroidNote)
 
+### 框架用户文档&教程
+
+* [Pytorch-zh](https://github.com/apachecn/pytorch-doc-zh)
+* [tensorflow官方中文](https://tensorflow.google.cn/tutorials/?hl=zh-cn)
+
 ### 图书配套源码
 
 ---
 
 * [《深度学习与计算机视觉》](https://github.com/frombeijingwithlove/dlcv_for_beginners)
-
 * [《OpenCV3编程入门》](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 * [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)
@@ -182,6 +211,7 @@
 * [《Python Web开发实战》](https://github.com/dongweiming/web_develop)
 * [《跟老齐学Python系列》图书之《数据分析》](https://github.com/qiwsir/DataAnalysis)
 * [《跟老齐学Python系列》图书之《零基础学Python》](https://python.xiaoleilu.com/)
+* [《深度学习框架PyTorch：入门与实践》](https://github.com/chenyuntc/pytorch-book)
 
 ### 面试笔试
 
@@ -220,6 +250,7 @@
 * 莫烦：[github](https://github.com/MorvanZhou) 、[教学主页](https://morvanzhou.github.io/)
 * 徐亦达：[github](https://github.com/roboticcam) 、[bilibili](https://space.bilibili.com/327617676/#/)  、[优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng==?spm=a2h0j.11185381.module_basic_dayu_sub.DL~DT~A)
 * ApacheCN：[github](https://github.com/apachecn) 、[组织主页](http://www.apachecn.org/)
+* 机器之心：[知乎专栏](https://zhuanlan.zhihu.com/jiqizhixin) 、[主页](https://www.jiqizhixin.com/)
 
 ### Awesome系列
 
@@ -246,6 +277,7 @@
 * [project-ideas](https://github.com/NirantK/awesome-project-ideas)
 * [前端资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 * [docker](https://github.com/veggiemonk/awesome-docker)
+* [Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
 ### 知名实验室&研究所
 
