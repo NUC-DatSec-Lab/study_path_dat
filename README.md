@@ -178,7 +178,28 @@
 #### 强化学习
 
 * [DeepMind&伦敦大学教程](https://www.youtube.com/watch?v=iOh7QUZGyiU&index=2&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&t=0s)
-* 
+
+### 程序设计&算法
+
+---
+
+#### 在线训练网站
+
+* [牛客网](https://www.nowcoder.com/)
+* [赛码网](http://exercise.acmcoder.com)
+* [计蒜客](https://www.jisuanke.com/)
+
+#### Online Judge
+
+* [杭州电子科技大学](http://acm.hdu.edu.cn/)
+* [浙江大学](http://acm.zju.edu.cn/onlinejudge/)
+* [topcoder](https://accounts.topcoder.com)
+* [哈尔滨工业大学](http://acm.hit.edu.cn/)
+* [51nod](http://www.51nod.com/)
+* [PAT真题](https://www.nowcoder.com/pat)
+* [电子科技大学](https://acm.uestc.edu.cn)
+* [UOJ](http://uoj.ac/)：据说这个oj开源了
+* [OJ题型分类](http://www.pythontip.com/acm/problemCategory)
 
 ### 开发相关
 
